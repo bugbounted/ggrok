@@ -14,7 +14,9 @@
     ```
 or you can deploy with Heroku with `Deploy To Heroku` button below:
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<a href="https://heroku.com/deploy?template=https://github.com/bugbounted/ggrok">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 ### Client side
 
